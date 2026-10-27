@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.group6.bankdemo",
+      "sha256_cert_fingerprints": [
+        "2F:3F:5D:A5:5A:96:AE:37:19:A3:2D:F3:61:1E:1C:0C:E4:84:46:FD:33:2E:48:52:96:F3:2B:F4:BD:53:37:22"
+      ]
+    }
+  }
+]
